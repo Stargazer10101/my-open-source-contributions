@@ -6,6 +6,6 @@ Apertium is an open-source organization focused on language processing. I am dev
 🔗 [GitHub Repository](https://github.com/Stargazer10101/apertium-lsp-server)
 
 ## Pull Request in Graphite
-Graphite is an open-source vector graphics editor. I contributed by submitting a pull request to improve its functionality.
+Graphite is an open-source vector graphics editor. I contributed by submitting a pull request to improve its Graph UI.
 
 🔗 [Pull Request #2182](https://github.com/GraphiteEditor/Graphite/pull/2182)
