@@ -9,3 +9,11 @@ Apertium is an open-source organization focused on language processing. I am dev
 Graphite is an open-source vector graphics editor. I contributed by submitting a pull request to improve its Graph UI.
 
 🔗 [Pull Request #2182](https://github.com/GraphiteEditor/Graphite/pull/2182)
+
+## Pull Requests in Synfig:
+
+🔗 https://github.com/synfig/synfig/pull/3506
+
+🔗 https://github.com/synfig/synfig/pull/3534
+
+🔗 https://github.com/synfig/synfig/pull/3560
