@@ -12,8 +12,26 @@ Graphite is an open-source vector graphics editor. I contributed by submitting a
 
 ## Pull Requests in Synfig:
 
+### Merged:
 🔗 https://github.com/synfig/synfig/pull/3506
 
 🔗 https://github.com/synfig/synfig/pull/3534
 
 🔗 https://github.com/synfig/synfig/pull/3560
+
+### Open:
+🔗 https://github.com/synfig/synfig/pull/3516 (Approved)
+
+🔗 https://github.com/synfig/synfig/pull/3535 (Work in progress)
+
+🔗 https://github.com/synfig/synfig/pull/3552 (Work in progress)
+
+🔗 https://github.com/synfig/synfig/pull/3608 (Work in progress)
+
+## Pull Requests in SeedSigner:
+
+🔗 https://github.com/SeedSigner/seedsigner/pull/720
+
+## Pull Requests in Nostrtools:
+
+🔗 https://github.com/kdmukai/nostrtool/pull/7
